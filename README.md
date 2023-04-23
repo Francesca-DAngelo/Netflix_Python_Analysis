@@ -4,9 +4,7 @@ The goal of the analysis is to help Netflix determine what aspects contribute to
 # Data
 The dataset for this project is open-source and can be downloaded [here](https://www.kaggle.com/datasets/dgoenrique/netflix-movies-and-tv-shows).
 
-An interactive dashboard is available on Tableau Public [here](https://public.tableau.com/app/profile/francesca.d.angelo6034/viz/NetflixDashboard_16819237609740/NetflixDashboard).
-
-Please find the Tableau interactive storyboard [here](https://public.tableau.com/app/profile/francesca.d.angelo6034/viz/NetflixDashboard_16819237609740/NetflixDashboard).
+The interactive dashboard is available on Tableau Public [here](https://public.tableau.com/app/profile/francesca.d.angelo6034/viz/NetflixDashboard_16819237609740/NetflixDashboard) and the interactive storyboard [here](https://public.tableau.com/app/profile/francesca.d.angelo6034/viz/Netflixstoryboard/NetflixStoryboard).
 
 # Tools
 The python libraries listed below were utilized for this project:
