@@ -7,7 +7,7 @@ The dataset for this project is open-source and can be downloaded [here]
 This dataset was intended to list all Netflix shows and movies. It was gathered from Justwatch in March 2023, and it contains data available in the United States.
 
 Please find the Tableau interactive presentation [here]
-([https://public.tableau.com/app/profile/francesca.d.angelo6034/viz/Netflixstoryboard/NetflixStoryboard)].
+(https://public.tableau.com/app/profile/francesca.d.angelo6034/viz/Netflixstoryboard/NetflixStoryboard).
 
 # Tools
 The python libraries listed below were utilized for this project:
