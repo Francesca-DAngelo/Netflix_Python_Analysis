@@ -3,9 +3,9 @@ Netflix is one of the most popular streaming platforms in the world, with over 8
 The goal of the analysis is to help Netflix determine what aspects contribute to the success of a movie/TV program.
 # Data
 The dataset for this project is open-source and can be downloaded [here](https://www.kaggle.com/datasets/dgoenrique/netflix-movies-and-tv-shows).
-This dataset was intended to list all Netflix shows and movies. It was gathered from Justwatch in March 2023, and it contains data available in the United States.
+An interactive dashboard is available on Tableau Public [here](https://public.tableau.com/app/profile/francesca.d.angelo6034/viz/Netflixstoryboard/NetflixStoryboard).
 
-Please find the Tableau interactive presentation [here](https://public.tableau.com/app/profile/francesca.d.angelo6034/viz/Netflixstoryboard/NetflixStoryboard).
+Please find the Tableau interactive presentation [here](https://public.tableau.com/app/profile/francesca.d.angelo6034/viz/NetflixDashboard_16819237609740/NetflixDashboard).
 
 # Tools
 The python libraries listed below were utilized for this project:
